@@ -1,0 +1,17 @@
+{
+  "name": "language-zil",
+  "version": "0.0.1",
+  "description": "ZIL Language Support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffnyman/language-zil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffnyman/language-zil/issues"
+  },
+  "license": "MIT"
+}
